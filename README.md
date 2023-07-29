@@ -10,8 +10,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/django-%3FF69B4.svg?&style=plastic&logoColor=pink" alt="django" title="Django">&nbsp;
-  <img src="https://img.shields.io/badge/django-%3FF69B4.svg?&style=plastic&logoColor=pink" alt="fastapi" title="FastAPI">&nbsp;
+  <img src="https://img.shields.io/badge/Django-%3FF69B4.svg?&style=plastic&logoColor=pink" alt="django" title="Django">&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-%3FF69B4.svg?&style=plastic&logoColor=pink" alt="fastapi" title="FastAPI">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="express logo"  />&nbsp;
