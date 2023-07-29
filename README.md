@@ -1,7 +1,7 @@
 
 <h3 align="center">Growing and Learning from Every Line of Code</h3>
 
-<h4 align="left"> Hey there 👋! My name is Arpit..</h4>
+<h3 align="left"> Hey there 👋! My name is Arpit..</h3>
 <h4 align="left">🌱 I’m currently learning mojo.🔥</h4>
 <h3 align="center">Technologies & Tools I have worked with</h3>
 <br>
