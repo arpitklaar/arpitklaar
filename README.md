@@ -1,10 +1,10 @@
-## Hey there 👋! My name is Arpit..
+
 <h3 align="center">Growing and Learning from Every Line of Code</h3>
-###
+
+<h4 align="left"> Hey there 👋! My name is Arpit..</h4>
 <h4 align="left">🌱 I’m currently learning mojo.🔥</h4>
-###
 <h3 align="center">Technologies & Tools I have worked with</h3>
-###
+<br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -24,9 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql logo"  />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="markdown logo"  />&nbsp;
 </div>
-###
 <h3 align="center">Connect with me</h3>
-###
+<br>
 <div align="center">
   <a href="https://in.linkedin.com/in/arpit-anand-2415b11a0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Linkedin logo"  />
